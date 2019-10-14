@@ -1,7 +1,7 @@
 Dim WshShell, WshExec
 Set WshShell = CreateObject("WScript.Shell")
 
-    WScript.Sleep 5000
+    	WScript.Sleep 5000
 	WshShell.SendKeys "!play SpongeBob: Closing Theme Song"
 	WshShell.SendKeys "{enter}"
 	
