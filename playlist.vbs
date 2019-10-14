@@ -16,7 +16,7 @@ Set WshShell = CreateObject("WScript.Shell")
 	WshShell.SendKeys "!play Attention - Charlie Puth (Full Band Rock Cover) by First To Eleven"
 	WshShell.SendKeys "{enter}"
 	
-	WScript.Sleep 500
+	WScript.Sleep 1000
 	WshShell.SendKeys "!play Without Me - Halsey (Rock Cover by First To Eleven)"
 	WshShell.SendKeys "{enter}"
 	
@@ -40,7 +40,7 @@ Set WshShell = CreateObject("WScript.Shell")
 	WshShell.SendKeys "!play I Don't Wanna Live Forever - ZAYN & Taylor Swift (Rock Cover by First To Eleven)"
 	WshShell.SendKeys "{enter}"
 	
-	WScript.Sleep 500
+	WScript.Sleep 1000
 	WshShell.SendKeys "!play Back To You - Selena Gomez (Cover by First To Eleven)"
 	WshShell.SendKeys "{enter}"
 	
@@ -76,7 +76,7 @@ Set WshShell = CreateObject("WScript.Shell")
 	WshShell.SendKeys "!play Wolves - Selena Gomez, Marshmello (Full Band Cover by First To Eleven)"
 	WshShell.SendKeys "{enter}"
 	
-	WScript.Sleep 100
+	WScript.Sleep 1000
 	WshShell.SendKeys "!play Royals - Lorde (Cover by First to Eleven)"
 	WshShell.SendKeys "{enter}"
 	
@@ -100,7 +100,7 @@ Set WshShell = CreateObject("WScript.Shell")
 	WshShell.SendKeys "!play Evolution of Avril Lavigne - Mashup by Halocene"
 	WshShell.SendKeys "{enter}"
 	
-	WScript.Sleep 100
+	WScript.Sleep 1000
 	WshShell.SendKeys "!play Billie Eilish - all the good girls go to hell (Rock Cover by Halocene)"
 	WshShell.SendKeys "{enter}"
 	
